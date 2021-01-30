@@ -12,7 +12,7 @@ https://shavkats.github.io/recipe-finder/
 
 ## Features
 * Page that displays images of ready meals, names of meals, calories and also ingredients 
-* Initially page displays results for the hard coded query in the application, which is "beef"
+* Initially page displays results for the hard-coded query in the application, which is "beef"
 * Search results are displayed in responsive grid that changes based on the size of the screen
-* Igredients are initially hidden as they take up too much of the page real estate
-* Igredients of a recipe are displayed after user clicks the "Ingredients" button under each image
+* Ingredients are initially hidden as they take up too much of the page real estate
+* Ingredients of a recipe are displayed after user clicks the "Ingredients" button under each image
